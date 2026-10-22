@@ -1,2 +1,2 @@
-# mcp-is-fun
-A playground for exploring mcp servers and agent orchestrations
+# bydefault-python
+all works with python as main enabler
